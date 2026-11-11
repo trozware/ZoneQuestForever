@@ -1,0 +1,10 @@
+## Title: ZoneQuestForever
+## Interface: 16001
+## Author: Sarah Reichelt
+## Version: 1.0.0
+
+## SavedVariables: zqForeverSettings
+## X-Category: Quests
+
+ZoneQuestForever.lua
+ZoneQuestForeverInterface.lua
