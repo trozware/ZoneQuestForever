@@ -2,7 +2,7 @@
 
 ## Add-on for World of Warcraft
 
-Install manually by copying the **Zone Quest Forever** folder into **/World of Warcraft/_classic_beta_/Interface/AddOns**. If the game is running at the time, you will need to log out and in again to complete the installation.
+Install manually by copying the **Zone Quest Forever** folder into **/World of Warcraft/\_forever\_/Interface/AddOns**. If the game is running at the time, you will need to log out and in again to complete the installation.
 
 **Zone Quest Forever** provides a way to track and manage your quests more efficiently.
 
